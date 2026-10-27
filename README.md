@@ -76,3 +76,5 @@ JavaScript, TypeScript y Python son lo que más uso. Para web y móvil he trabaj
 - Programa Oracle Next Education, Oracle y Alura Latam, 2023 ([verificar](https://app.aluracursos.com/program/certificate/575298e0-5813-4d18-9435-24331dc15a59))
 - Formación HTML & CSS, Alura Latam, 2023 ([verificar](https://app.aluracursos.com/degree/certificate/c618d520-2b28-4ed2-944e-40aafde21c06))
 - Front-End Web UI Frameworks and Tools: Bootstrap 4, HKUST en Coursera, 2021 ([verificar](https://coursera.org/verify/UT3C8MRP9BM8))
+
+© 2026 José Luis Cuenca Gutiérrez. Todos los derechos reservados.
