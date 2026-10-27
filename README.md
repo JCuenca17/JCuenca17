@@ -60,6 +60,7 @@ Estudio Ingeniería de Sistemas en la UNSA, en Arequipa. Programo sobre todo apl
 ## Otros repos
 
 - [proyecto-cultivos](https://github.com/JCuenca17/proyecto-cultivos): predice la demanda de palta, mango y arándanos con datos históricos y la ajusta según el clima. Flask y pandas.
+- [app-finanzas](https://github.com/JCuenca17/app-finanzas): finanzas personales con cuentas, deudas, pagos fijos y gráficos. Vue 3, Tailwind y Supabase, con backend en FastAPI.
 - [sd-final](https://github.com/JCuenca17/sd-final): tienda distribuida en dos nodos con FastAPI y SQLAlchemy.
 - [mi-portafolio-react](https://github.com/JCuenca17/mi-portafolio-react): portafolio de una sola página en React y Vite.
 - [ps_final](https://github.com/JCuenca17/ps_final): alquiler de películas por consola, en C++.
@@ -68,7 +69,7 @@ Estudio Ingeniería de Sistemas en la UNSA, en Arequipa. Programo sobre todo apl
 
 ## Con qué trabajo
 
-JavaScript, TypeScript y Python son lo que más uso. Para web y móvil he trabajado con React Native y Expo, Django, Flask, FastAPI y Firebase, y despliego en Vercel. En juegos uso Phaser 3 y Unity con C#. También he programado en Java y C++, y he usado MySQL, PostgreSQL y scikit-learn.
+JavaScript, TypeScript y Python son lo que más uso. Para web y móvil he trabajado con React, Vue, React Native y Expo, Django, Flask, FastAPI, Firebase y Supabase, y despliego en Vercel. En juegos uso Phaser 3 y Unity con C#. También he programado en Java y C++, y he usado MySQL, PostgreSQL y scikit-learn.
 
 ## Certificaciones
 
