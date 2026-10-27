@@ -45,7 +45,7 @@ Estudio Ingeniería de Sistemas en la UNSA, en Arequipa. Programo sobre todo apl
 <h3>Yachay</h3>
 <p>Juego para aprender palabras en quechua. Sale una pista en español y hay que atrapar la traducción con una canasta. Se juega en el navegador.</p>
 <p><sub>Unity · C#</sub></p>
-<p><a href="https://abduzcan17.itch.io/yachay">Jugar en itch.io</a></p>
+<p><a href="https://abduzcan17.itch.io/yachay">Jugar en itch.io</a> · <a href="https://github.com/JCuenca17/yachay">Código</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/JCuenca17/proyecto1-afev"><img src="img/vdm.jpg" alt="Fragmento de la especificación en VDM++"></a>
